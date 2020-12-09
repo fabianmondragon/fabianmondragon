@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center"> <h1 align="center"> Fabián Mondragón </h1> </p>
+<p align="center">
+<h2> I like Android </h2>
+</p>
 
-<!--
-**fabianmondragon/fabianmondragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fabián. I'm a Android Developer who is passionate about mobile applications, convert client needs into code and share my knowledge
 
-Here are some ideas to get you started:
+🤔 I’m looking to collaborate on Kotlin-Android / projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with supporting my open source projects.
+
+📫 How to reach me:
+
+`Blog` - (https://mondradev.medium.com/)
+
+<h4 align="center">❤️ not stop learning is the best way to live </h4>
